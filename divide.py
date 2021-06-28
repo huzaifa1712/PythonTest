@@ -5,4 +5,4 @@ def helper(n):
     return n-1
 
 def add(x,y):
-    return x
+    return x+y
